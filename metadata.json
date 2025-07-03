@@ -1,0 +1,7 @@
+{
+  "name": "Biology Olympiad Tutor",
+  "description": "An interactive AI tutor to help you prepare for the International Biology Olympiad. Practice with challenging questions and get expert feedback, all through a voice-based interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
